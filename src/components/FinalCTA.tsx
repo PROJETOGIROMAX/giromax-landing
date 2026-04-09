@@ -21,7 +21,7 @@ export default function FinalCTA() {
               href="https://appgiromax.com.br"
               className="bg-brand hover:bg-brand-dark text-white px-12 py-5 rounded-full font-bold text-xl transition-all hover:scale-105 active:scale-95 orange-glow"
             >
-              Testar por 3 dias
+              Grátis por 3 dias
             </a>
             <a 
               href="https://appgiromax.com.br"
