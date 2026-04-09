@@ -70,7 +70,7 @@ export default function Solution() {
               href="https://appgiromax.com.br"
               className="inline-flex items-center gap-2 bg-brand hover:bg-brand-dark text-white px-8 py-4 rounded-full font-bold text-lg transition-all hover:scale-105 active:scale-95 orange-glow"
             >
-              Quero testar agora
+              Quero usar o GiroMax
             </a>
           </div>
         </div>
