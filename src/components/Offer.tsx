@@ -44,7 +44,7 @@ export default function Offer() {
             href="https://appgiromax.com.br"
             className="inline-block w-full sm:w-auto bg-brand hover:bg-brand-dark text-white px-12 py-5 rounded-full font-bold text-xl transition-all hover:scale-105 active:scale-95 orange-glow"
           >
-            Começar meu teste grátis
+            Começar Agora
           </a>
           
           <p className="mt-6 text-zinc-500 text-sm">
