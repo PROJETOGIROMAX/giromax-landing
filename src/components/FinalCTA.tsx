@@ -27,7 +27,7 @@ export default function FinalCTA() {
               href="https://appgiromax.com.br"
               className="bg-white/5 hover:bg-white/10 border border-white/10 text-white px-12 py-5 rounded-full font-bold text-xl transition-all"
             >
-              Começar agora
+              Começar
             </a>
           </div>
           
