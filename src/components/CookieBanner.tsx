@@ -1,6 +1,5 @@
 import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "motion/react";
-import { Link } from "react-router-dom";
 import { X } from "lucide-react";
 
 export default function CookieBanner() {
@@ -32,14 +31,14 @@ export default function CookieBanner() {
             <div className="glass bg-zinc-900/90 backdrop-blur-xl border border-white/10 p-5 md:p-6 rounded-3xl shadow-2xl flex flex-col md:flex-row items-center justify-between gap-6">
               <div className="flex-1 text-center md:text-left">
                 <p className="text-zinc-300 text-sm md:text-base leading-relaxed">
-                  Utilizamos cookies para melhorar sua experiência, analisar o tráfego e personalizar conteúdos. 
+                  Utilizamos cookies para melhorar sua experiência, analisar o tráfego e personalizar conteúdos.
                   Ao continuar, você concorda com nossa{" "}
-                  <Link to="/privacidade" className="text-brand hover:underline font-semibold">
+                  <a href="/privacidade" className="text-brand hover:underline font-semibold">
                     Política de Privacidade
-                  </Link>.
+                  </a>.
                 </p>
               </div>
-              
+
               <div className="flex items-center gap-4 w-full md:w-auto">
                 <button
                   onClick={() => setIsVisible(false)}
