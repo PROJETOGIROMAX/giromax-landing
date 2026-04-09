@@ -37,7 +37,7 @@ export default function Hero() {
                   href="https://appgiromax.com.br"
                   className="bg-brand hover:bg-brand-dark text-white px-8 py-4 rounded-full font-bold text-lg transition-all hover:scale-105 active:scale-95 flex items-center justify-center gap-2 orange-glow"
                 >
-                  Começar teste grátis <ArrowRight size={20} />
+                  Ver meu lucro real <ArrowRight size={20} />
                 </a>
                 <p className="text-center text-xs text-zinc-500 font-medium italic">Teste grátis por 3 dias</p>
               </div>
@@ -45,7 +45,7 @@ export default function Hero() {
                 href="#prova"
                 className="bg-white/5 hover:bg-white/10 border border-white/10 text-white px-8 py-4 rounded-full font-bold text-lg transition-all flex items-center justify-center gap-2 h-fit"
               >
-                Quero saber quanto sobra
+                Teste Grátis
               </a>
             </div>
             
